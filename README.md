@@ -72,4 +72,5 @@ docker run -v <vol-name>:<mount-path> <image>   # to run container with volume
     - configure index.html (update backend url)
     - build frontend image
     - docker run -d -p 80:80 frontend:latest
-    
+
+mayur
